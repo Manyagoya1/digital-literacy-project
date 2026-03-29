@@ -7,7 +7,7 @@
 - Use privacy settings to control who can see your posts
 - Be respectful and polite in comments and message
 
-- ## Don'ts
+## Don'ts
 - Don’t share personal or sensitive information publicly
 - Don’t post offensive, harmful, or inappropriate content
 - Don’t spread rumors or unverified information
