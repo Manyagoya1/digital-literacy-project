@@ -10,9 +10,9 @@
 
 ## Project Overview
 
-This project is part of the Digital Literacy course at VIT Bhopal University. It focuses on building essential digital skills needed for students to work effectively and responsibly in today’s online environment.
+This project is created as part of the CSE0001 Digital Literacy course, where I take on the role of a Student Digital Ambassador. The aim is to develop awareness about using digital tools effectively, maintaining a professional online presence, and practicing safe and responsible behavior on the internet.
 
-Through this project, I worked on creating a professional digital presence, understanding proper online communication, exploring coding and collaboration platforms, and learning about cyber safety. Each task was designed to provide practical experience that can be useful for academics, internships, and future career growth.
+The repository includes a series of tasks covering infographic creation, digital portfolio setup, coding and collaboration platforms, professional communication, and cybercrime awareness. Each task reflects practical skills that are essential for students in today’s digital environment.
 
 ---
 
@@ -28,3 +28,9 @@ digital-literacy-project/
 ├── task-5-cybercrime/
 ├── report/
 │   └── Project_Report.pdf
+
+---
+
+## Task-wise Summary
+
+## Task 1
