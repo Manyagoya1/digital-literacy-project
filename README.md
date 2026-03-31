@@ -67,3 +67,16 @@ Tools & Platforms Used
 - HackerRank: https://www.hackerrank.com/profile/manyagoyal2006
 - Kaggle: https://www.kaggle.com/manyagoyal12
 - Stackoverflow: https://stackoverflow.com/users/32549123/manya-goyal
+
+## Tools & Platforms Used
+
+- Canva
+- GitHub
+- LinkedIn
+- Kaggle
+- HackerRank
+- Google Forms
+
+## Conclusion
+
+Overall, this project gave me a better understanding of how to use digital tools effectively and responsibly. It also helped me improve my communication skills and awareness about online safety. These are skills that I will continue to use during my college years and beyond.
