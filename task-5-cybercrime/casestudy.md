@@ -2,9 +2,9 @@
 
 Phishing is a type of cybercrime where attackers impersonate a trusted entity to trick victims into revealing sensitive information or transferring money. It commonly occurs through fake emails, messages, or websites.
 
-Phishing is a type of cybercrime where attackers impersonate a trusted entity to trick victims into revealing sensitive information or transferring money. It commonly occurs through fake emails, messages, or websites.
+A well-known real-world case involved tech giants Google and Facebook between 2013 and 2015. In this attack, a hacker impersonated a legitimate vendor company (Quanta Computer) and sent fake invoices to both organizations. Believing the emails to be genuine, employees processed payments to the attacker’s bank accounts. As a result, over $100 million was fraudulently transferred before the scam was discovered.
 
-source: https://www.cnbc.com/2019/03/27/phishing-email-scam-stole-100-million-from-facebook-and-google.html#:~:text=Tom%20Huddleston%20Jr.,Southern%20District%20of%20New%20York.
+source: [How this scammer used phishing emails to steal over $100 million from Google and Facebook](https://www.cnbc.com/2019/03/27/phishing-email-scam-stole-100-million-from-facebook-and-google.html#:~:text=Tom%20Huddleston%20Jr.,Southern%20District%20of%20New%20York).
 
 ### How it typically happens (step-by-step):
 
